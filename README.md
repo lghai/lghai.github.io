@@ -1,0 +1,2 @@
+# lghai.github.io
+blog
