@@ -7,8 +7,8 @@ facebook_appid:   #lghai
 google_analytics: UA-101222464-1
 share:            true 
 # 分页
-paginate: 15
-paginate_path: "liberxuepage:33"
+paginate: 33
+paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
