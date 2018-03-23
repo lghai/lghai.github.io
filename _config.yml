@@ -5,9 +5,9 @@ url:              https://lghai.github.io # 域名
 signoff:          "lghai" # Your name
 facebook_appid:   #lghai
 google_analytics: UA-101222464-1
-share:            true 
+share:            true
 # 分页
-paginate: 33
+paginate: 6
 paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
